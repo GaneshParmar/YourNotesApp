@@ -19,7 +19,7 @@ To install and run the application locally, please follow the steps below:
 1. Clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/GaneshParmar/YourNotesApp.git
 ```
 
 2. Open Android Studio.
